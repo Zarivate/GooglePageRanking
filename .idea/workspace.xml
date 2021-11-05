@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36556c8f-9e0b-4827-b52b-75ecbfd9f5f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aos8fXHFrMkcU4KcBNUbU00OYf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vote.java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\izara\IdeaProjects\PageRank" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UpCount">
+    <configuration name="PageRank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PageRank" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpCount" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UpCount" />
+        <item itemvalue="Application.PageRank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36556c8f-9e0b-4827-b52b-75ecbfd9f5f8" name="Default Changelist" comment="" />
+      <created>1587413122444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587413122444</updated>
+      <workItem from="1587413126149" duration="2379000" />
+      <workItem from="1587511899087" duration="17052000" />
+      <workItem from="1587576602848" duration="31804000" />
+      <workItem from="1587658712037" duration="70425000" />
+      <workItem from="1588709866330" duration="1200000" />
+      <workItem from="1588806345066" duration="2085000" />
+      <workItem from="1588897548007" duration="48000" />
+      <workItem from="1600719131475" duration="629000" />
+      <workItem from="1601582271995" duration="175000" />
+      <workItem from="1623616444285" duration="2045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="splitLine[0]" />
+        <watch expression="splitLine[0]" />
+        <watch expression="currentLine" />
+        <watch expression="currentLine" language="JAVA" />
+        <watch expression="splitLine[0]" />
+        <watch expression="currentSite.refSites" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
